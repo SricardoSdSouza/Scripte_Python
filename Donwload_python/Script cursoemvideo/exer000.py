@@ -3,4 +3,4 @@
 mensagem de boas - vindas de acordo com o valor digitado.
 '''
 nome=input("Digite seu nome : ")
-print("\n Olá ",nome,"! \n prazer em te conhecer, seja muito bem vindo(a).")
+print("\n Olá ",nome,"! \n Prazer em te conhecer, seja muito bem vindo(a).")
